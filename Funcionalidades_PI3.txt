@@ -1,0 +1,58 @@
+Funcionalidades:
+
+
+############################### Login ###############################
+
+Cadastro/Login -> Administrador / Cliente
+
+
+ ############################### Funcionalidade do Site -> *Não Logado*  ###############################
+
+Barra de pesquisa
+
+Filtros-> {Localização, Tipo de imóvel, Preço, Quartos, Banheiro, Pet Friendly, garagem}
+
+
+Check-in e Check-out
+
+
+Regiões do Brasil
+
+
+###############################   ###############################  ###############################
+
+
+
+
+###############################  Vetores de Pesquisa ###############################
+
+Favoritos
+
+Mensagens
+
+Notificações
+
+Publicar seu imóvel
+
+Configurações
+
+Sair
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cadastro de imóveis (administração) -> Colocar  {Localização, Tipo de imóvel, Preço, Quartos, Banheiro, Pet Friendly, garagem} *Campo obrigatórios
+
+
+
